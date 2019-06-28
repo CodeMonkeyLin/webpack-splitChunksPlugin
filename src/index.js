@@ -9,7 +9,7 @@ import $ from "jquery";
 import 'moment/locale/zh-cn'
 moment.locale('zh-CN')
 console.log(moment().subtract(6, 'days').calendar())
-console.log(a)
+// console.log(a)
 
 if (module.hot) {
     module.hot.accept(['./news.js', './message'], function () {

@@ -24,7 +24,7 @@ module.exports = {
         new webpack.HotModuleReplacementPlugin()
     ],
     mode: 'development',
-    devtool: 'cheap-module-eval-source-map',
+    // devtool: 'cheap-module-eval-source-map',
     devServer: {
         compress: true,
         hot: true,
