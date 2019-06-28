@@ -1,0 +1,15 @@
+export default {
+    key1: '我是key1',
+    key2: '我是key2',
+    key3: '我是key3',
+    key4: '我是key4',
+    key5: '我是key5',
+    key6: '我是key6',
+    key7: '我是key7',
+    key8: '我是key8',
+    key9: '我是key9',
+    key10: '我是key10',
+    key11: '我是key11',
+    key12: '我是key12',
+    key13: '我是key13',
+}
